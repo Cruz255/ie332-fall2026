@@ -1,2 +1,2 @@
 # ie332-fall2026
-Lab Repo
+Repository for IE332
